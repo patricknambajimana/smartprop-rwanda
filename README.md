@@ -1,3 +1,4 @@
+
 # SmartProp Rwanda: House Price Prediction Model
 
 A machine learning model that estimates the sale price of a house from its land, building and location data. It returns an estimated price, a price range, and the main reasons behind the estimate.
